@@ -1,0 +1,55 @@
+Publication	Study design	no. of subjects	Dietary collection method (no. of measurements)	Dietary exposures studied
+"De Filippis et al., 2016"	Cross-sectional	153	24-h dietary recall or food records	Dietary patterns
+"Breuninger et al., 2021"	Cross-sectional	1992	FFQ	Mixed
+"Mei et al., 2021"	Cross-sectional	3466	24-h dietary recall or food records	Food groups
+"Noh et al., 2021"	Cross-sectional	222	FFQ	Food groups
+"Yu et al., 2021"	Prospective	1920	FFQ	Dietary patterns
+"Ruiz-Saavedra et al, 2020"	Cross-sectional	73	FFQ	Dietary patterns
+"Jiang et al., 2020"	Prospective	1879	FFQ	Food groups
+"Hung et al., 2020"	Cross-sectional	130	Short dietary intake questionnaire	Dietary patterns
+"Ramne et al., 2021"	Cross-sectional	1371	Mixed dietary assessment	Mixed
+"Watanabe et al., "	Cross-sectional	223	Diet history questionnaire	Food groups
+"Bezek et al.,, 2020"	Cross-sectional	200	Mixed dietary assessment	Food groups
+"Valeriani et al., 2020"	Cross-sectional	59	Short dietary intake questionnaire	Dietary patterns
+"Gallè et al., 2020"	Cross-sectional	140	Short dietary intake questionnaire	Dietary patterns
+"Harakeh et al., 2020"	Cross-sectional	104	FFQ	Food groups
+"Ericson et al., 2020"	Cross-sectional	1726	24-h dietary recall or food records	Dietary patterns
+"Seura et al., 2019"	Cross-sectional	60	Diet history questionnaire	Dietary patterns
+"Farup et al., 2019"	Cross-sectional	89	FFQ	Food groups
+"Trefflich et al., 2020"	Cross-sectional	72	24-h dietary recall or food records	Dietary patterns
+"Shikany et al., 2019"	Cross-sectional	517	FFQ	Dietary patterns
+"Partula et al., 2019"	Cross-sectional	862	FFQ	Food groups
+"Kurilshikov et al., 2009"	Cross-sectional	978	FFQ	Food groups
+"Pallister et al., 2017"	Prospective	1529	FFQ	Mixed
+"Mitsou et al., 2017"	Cross-sectional	100	FFQ	Dietary patterns
+"Davis et al., 2017"	Cross-sectional	81	Mixed dietary assessment	Food groups
+"de Moraes et al., 2017"	Cross-sectional	268	FFQ	Dietary patterns
+"Ruengsomwong et al., 2016"	Cross-sectional	72	Self-identified dietary types	Dietary patterns
+"Vangay et al., 2018"	Mixed	514	24-h dietary recall or food records	Dietary patterns
+"Koponen et al., 2021"	Cross-sectional	4930	FFQ	Dietary patterns
+"Bogovi_ Matija_i_ et al., 2014"	Cross-sectional	60	Self-identified dietary types	Dietary patterns
+"Lossasso et al., 2018"	Cross-sectional	101	Mixed dietary assessment	Dietary patterns
+"Zimmer et al., 2012"	Cross-sectional	498	Self-identified dietary types	Dietary patterns
+"Franco_de_Moraes et al., 2017"	Cross-sectional	268	Self-identified dietary types	Dietary patterns
+"Ferrocino et al., 2015"	Cross-sectional	153	Self-identified dietary types	Dietary patterns
+"Kabeerdoss et al., 2012"	Cross-sectional	56	Mixed dietary assessment	Dietary patterns
+"Maskarinec et al., 2019"	Mixed	1735	FFQ	Dietary patterns
+"Gutiérrez-Díaz et al., 2017"	Cross-sectional	74	FFQ	Dietary patterns
+"Yu et al., 2021"	Prospective	144	FFQ	Dietary patterns
+"Suzuki et al., 2017"	Cross-sectional	293	Short dietary intake questionnaire	Food groups
+"García-Vega et al., 2020"	Cross-sectional	441	24-h dietary recall or food records	Dietary patterns
+"Frankenfeld et al., 2021"	Cross-sectional	1709	Serum nutrient biomarkers	Nutrient biomarkers
+"Rosés et al., 2021"	Cross-sectional	360	FFQ	Dietary patterns
+"Aoyagi et al., 2019"	Cross-sectional	338	Short dietary intake questionnaire	Food groups
+"Shima et al., 2019"	Cross-sectional	366	Short dietary intake questionnaire	Food groups
+"Shuai et al., 2021"	Prospective	1780	FFQ	Food groups
+"Sugimoto et al., 2020"	Cross-sectional	354	FFQ	Food groups
+"Li et al., 2021"	Cross-sectional	303	FFQ	Dietary patterns
+"Brostow et al., 2021"	Cross-sectional	330	FFQ	Dietary patterns
+"González et al., 2019"	Cross-sectional	130	FFQ	Food groups
+"Bowyer et al., 2019"	Prospective	2070	FFQ	Dietary patterns
+"Johnson et al., 2019"	Prospective	34	24-h dietary recall or food records	Food groups
+"Zhernakova et al., 2016"	Prospective	1135	FFQ	Food groups
+"McDonald et al., 2018"	Prospective	1596	Mixed dietary assessment	Mixed
+"David et al., 2014"	Prospective	2	24-h dietary recall or food records	Food groups
+"Cotillard et al., 2021"	Retrospective	744	FFQ	Dietary patterns
